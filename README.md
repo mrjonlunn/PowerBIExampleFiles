@@ -1,6 +1,6 @@
 ## Microsoft Power BI Reference
 ###	The main page for Power BI documentation
-	https://docs.microsoft.com/en-gb/power-bi/
+	(https://docs.microsoft.com/en-gb/power-bi/)
 
 	White papers outlining the service components
 	https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers
