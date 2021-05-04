@@ -1,9 +1,9 @@
-Power BI Example Files
-	Power BI example files referenced in the training
+# Power BI Example Files
+##	Power BI example files referenced in the training
 	https://github.com/itconsultantonthedge/PowerBIExampleFiles
 	
-Microsoft Power BI Reference
-	The main page for Power BI documentation
+# Microsoft Power BI Reference
+##	The main page for Power BI documentation
 	https://docs.microsoft.com/en-gb/power-bi/
 
 	White papers outlining the service components
