@@ -3,15 +3,19 @@
 https://docs.microsoft.com/en-gb/power-bi/
 
 White papers outlining the service components
+
 https://docs.microsoft.com/en-us/power-bi/guidance/whitepapers
 
 What is a Star Schema?
+
 https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
+
 Concepts behind a data model, and why you might want to use one.
 
 ## Books
-###	Power Pivot and Power Bi: The Excel User's Guide to Dax, Power Query, Power Bi & Power Pivot
+###	Power Pivot and Power Bi: The Excel User's Guide to Dax, Power Query, Power BI & Power Pivot
 https://www.amazon.co.uk/Power-Pivot-Bi-Excel-2010-2016/dp/1615470395/
+
 By Rob Collie who was one of the people that developed DAX at Microsoft
 
 M Is For Data Monkey
